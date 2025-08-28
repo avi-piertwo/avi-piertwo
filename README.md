@@ -13,9 +13,9 @@
 <!-- Badges -->
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinava-basu)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/avinava_basu)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinava89@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinava-basu-17128262/)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/basu_avinava)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinava@piertwo.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avinava.dev)
   
 </div>
@@ -48,7 +48,8 @@ const avi = {
     },
     
     currentFocus: "DeFi & Trading Solutions 📈",
-    funFact: "I run Chainlink nodes on multi-cloud infrastructure! ⛓️"
+    funFact: "I run Chainlink nodes on multi-cloud infrastructure! ⛓️",
+    contactMe: "avinava@piertwo.com"
 };
 ```
 
