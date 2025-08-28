@@ -30,8 +30,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
-const avinava = {
+```js
+const avi = {
     name: "Avinava Basu",
     location: "Bangalore, India 🇮🇳",
     company: "DevOn",
@@ -207,7 +207,9 @@ const avinava = {
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://open.spotify.com/user/34sazu1j38z6d0xezvysl9qd9" alt="Spotify" />
+  <a href="https://open.spotify.com/user/34sazu1j38z6d0xezvysl9qd9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=34sazu1j38z6d0xezvysl9qd9&width=600" alt="Spotify Recently Played" />
+  </a>
 </div>
 
 <!-- Footer -->
