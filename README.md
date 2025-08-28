@@ -5,8 +5,10 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Web3+%26+Blockchain+Developer+%F0%9F%94%97;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Cryptocurrency+Enthusiast+%F0%9F%AA%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=140&lines=Web3+%26+Blockchain+Developer+%F0%9F%94%97;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Cryptocurrency+Enthusiast+%F0%9F%AA%99" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <!-- Badges -->
 <div align="center">
